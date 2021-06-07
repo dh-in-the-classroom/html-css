@@ -1,3 +1,6 @@
+
+![dream lab logo](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/e/505/files/2020/05/Dream-Lab-header-shorter.jpg)
+
 ## HTML / CSS
 
 While our time together is limited, I would be remiss if I didn't at least make a plug for the importance of having a basic understanding of HTML/CSS. Even if we were to exclusively use the most sophisticated platforms and stunning drag-and-drop interfaces, I would still argue that even a cursory foundation in HTML and CSS is useful (possibly essential) for humans who regularly interact with web content and care to think critically about texts.
@@ -27,7 +30,7 @@ The internet is rife with tutorials and demos about, well, the internet. Not all
 - [HTML Basics by MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS Basics by MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [The LO-FI Manifesto by Karl Stolley](http://kairos.technorhetoric.net/20.2/inventio/stolley)
-- [A 4 minute demo about web design by Jeremy Thomas](https://jgthms.com/web-design-in-4-minutes).
-
+- [A 4 minute demo about web design by Jeremy Thomas](https://jgthms.com/web-design-in-4-minutes)
+- [Jay Nelson, Interactive Markdown Summary](https://observablehq.com/@jaynel/markdown-summary)
 - [Amanda Visconti. "Building a static website with Jekyll and GitHub Pages," *The Programming Historian*.](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 - [Denis Tenen and Grant Wythoff. "Sustainable Authorship in Plain Text", *The Programming Historian*.](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
